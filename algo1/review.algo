@@ -1,0 +1,43 @@
+Data Structures:
+
+Arrays: A collection of elements of the same data type stored in contiguous memory locations.
+
+Linked Lists: A dynamic collection of elements, where each element (called a "node") points to the next node.
+
+Stacks: A Last-In-First-Out (LIFO) data structure, where elements are added and removed from the top.
+
+Queues: A First-In-First-Out (FIFO) data structure, where elements are added to the end and removed from the front.
+
+Trees: A hierarchical data structure, where each node has a value and zero or more child nodes.
+
+Graphs: A non-linear data structure, where nodes are connected by edges.
+Hash Tables: A data structure that maps keys to values using a hash function.
+
+Heaps: A specialized tree-based data structure that satisfies the heap property.
+
+Trie: A prefix tree, a tree-like data structure that stores a dynamic set of strings.
+
+Matrix: A two-dimensional array of elements.
+
+
+Sorting Algorithms:
+
+Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+
+Selection Sort: A sorting algorithm that selects the smallest (or largest) element from the unsorted portion of the list and swaps it with the first element of the unsorted portion.
+
+Insertion Sort: A sorting algorithm that builds the final sorted list one item at a time, inserting each item into its proper position.
+
+Merge Sort: A divide-and-conquer algorithm that splits the list into smaller sublists, sorts each sublist, and then merges the sorted sublists.
+
+Quick Sort: A divide-and-conquer algorithm that selects a pivot element, partitions the list around the pivot, and recursively sorts the sublists.
+
+Heap Sort: A comparison-based sorting algorithm that uses a heap data structure to sort the list.
+
+Radix Sort: A non-comparative sorting algorithm that sorts data with integer keys by grouping keys by their individual digits.
+
+Timsort: A hybrid sorting algorithm that combines elements of merge sort and insertion sort.
+
+Counting Sort: A sorting algorithm that sorts a list of elements by counting the number of occurrences of each element.
+
+Bucket Sort: A sorting algorithm that distributes the elements of a list into a number of buckets, each of which is then sorted individually.
